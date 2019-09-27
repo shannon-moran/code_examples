@@ -6,6 +6,8 @@
 
 I've enclosed the following **Python** files. There are two sets available, depending on what you are looking to verify about my coding ability.
 
+Please note: in production, these code snippets would always be accompanied by unit tests. Those are not included here.
+
 Examples of ETL of business data:
 * These were written as part of a 3-day take-home exam and represent time-constrained work.
 * `take-home/data_processing.py` and `/data_cleaning.py`: These files use `pandas` to clean raw data on listings, hosts, and users (e.g. de-dupe, transform date-time columns, sense-check numerical data). During the processing phase, these files merge relevant tables for easy analysis.
