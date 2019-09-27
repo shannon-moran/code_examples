@@ -15,6 +15,6 @@ Examples of more advanced Python for analysis of physics data:
 * `simulations/classes.py`: The Python classes here allow me to (1) query a MongoDB NoSQL database and load matching simulation trajectory files, (2) normalize the data as needed, then (3) run spacial/clustering analyses and save the results as class variables. This data pipeline works in tandem with `parallelize.py` below to allow fast, reproducible analysis.
 * `simulations/parallelize.py`: My academic research involves analyzing multiple time-series-based data files in aggregate. This class is a `multiprocessing` framework that enables me to run analysis in parallel with just two lines of code, leading to speed-ups of 20x.
 
-I also have two class projects from grad school are well-contained, if you're looking for more examples of how I organize a coding project. Both links below are to Python notebooks with final analyses.
+I also have two class projects from grad school that are well-contained, if you're looking for more examples of how I organize a coding project. Both links below are to Python notebooks with final analyses.
 * [Computational physics project modeling and analyzing explosive percolation on a graph network](https://github.com/shannon-moran/computational-physics-F17/blob/master/03_Project/MORAN_SUBMISSION/CODE/Moran_FinalProject.ipynb)
 * [Modeling and analysis of explosive percolation on graph networks, given local rules](https://github.com/shannon-moran/fractals-and-percolation-2018/blob/master/02_FINAL_SUBMISSION/FINAL-Project_report_figures.ipynb)
