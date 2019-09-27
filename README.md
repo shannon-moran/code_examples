@@ -1,4 +1,4 @@
-# Welcome! Here are some code snippets that I hope will convince you to hire me.
+# Welcome! Here are some code snippets that I hope will convince you to interview & hire me.
 
 <img src="https://media.giphy.com/media/hZj44bR9FVI3K/giphy.gif">
 
